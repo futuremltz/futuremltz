@@ -20,8 +20,6 @@
 
 ## 👨‍💻 Sobre mim
 
-<img align="right" width="300" src="https://skillicons.dev/icons?i=c,cpp,python,git,github,html,css,js,vscode,linux&theme=dark&perline=5" />
-
 - 🎓 Estudante de **Ciência da Computação** na **Unisinos**
 - 📍 Porto Alegre, RS 🇧🇷
 - 🏆 **Menção Honrosa** na Maratona de Programação **ICPC 2026**
@@ -30,7 +28,9 @@
 - 🌱 Aprendendo agora: **orientação a objetos em C++**
 - 🎯 Objetivo: **primeiro estágio em desenvolvimento de software**
 
-<br clear="right" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,html,css,js,vscode,linux&theme=dark" />
+</p>
 
 ```c
 #include <stdio.h>
