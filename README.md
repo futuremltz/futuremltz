@@ -18,9 +18,9 @@
 
 ---
 
-<img align="right" width="300" src="https://skillicons.dev/icons?i=c,cpp,python,git,github,html,css,js,vscode,linux&theme=dark&perline=5" />
-
 ## 👨‍💻 Sobre mim
+
+<img align="right" width="300" src="https://skillicons.dev/icons?i=c,cpp,python,git,github,html,css,js,vscode,linux&theme=dark&perline=5" />
 
 - 🎓 Estudante de **Ciência da Computação** na **Unisinos**
 - 📍 Porto Alegre, RS 🇧🇷
