@@ -23,7 +23,7 @@
 - 🎓 Estudante de **Ciência da Computação** na **Unisinos**
 - 📍 Porto Alegre, RS 🇧🇷
 - 🏆 **Menção Honrosa** na Maratona de Programação **ICPC 2026**
-- 🤝 Voluntário no **Eu-Cidadão**, ensinando tecnologia para adultos e idosos
+- 🤝 Monitor voluntário no **Eu-Cidadão**, apoiando oficinas de tecnologia para adultos e idosos
 - 📚 Formações na **Rocketseat**: Python, lógica, Git e GitHub, web
 - 🌱 Aprendendo agora: **orientação a objetos em C++**
 - 🎯 Objetivo: **primeiro estágio em desenvolvimento de software**
