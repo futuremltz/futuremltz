@@ -73,7 +73,8 @@ int main(void) {
 | 💣 [**Campo Minado**](https://github.com/futuremltz/Campo-minado) | Jogo no terminal com tabuleiro 9x9 e bombas aleatórias | Revelação recursiva (flood fill) |
 | 🛰️ [**IMORTAL-1**](https://github.com/futuremltz/IMORTAL-1-Sistema-de-Bordo) | Sistema de bordo de um satélite: sensores, alertas e relatório | Máx/mín sem `if`, só com matemática |
 | 📒 [**Agenda de Contatos**](https://github.com/futuremltz/Agenda-de-Contatos) | CRUD completo no terminal | Favoritos com toggle |
-| 🐍 [**Projetos em Python**](https://github.com/futuremltz/Projetos-em-Python) | Portfólio em evolução | Organizador automático de arquivos |
+| 🗂️ [**Organizador de Arquivos**](https://github.com/futuremltz/Organizador-de-Arquivos) | Organiza uma pasta automaticamente por tipo de arquivo | Automação com `os` e `shutil` |
+| 🐍 [**Projetos em Python**](https://github.com/futuremltz/Projetos-em-Python) | Série de exercícios, cada um em seu repositório | Do IMC ao organizador de arquivos |
 | 🔧 [**Projetos em C++**](https://github.com/futuremltz/Projetos-em-cpp) | 20 projetos, do básico à POO | Simulador de banco (em andamento) |
 
 ---
