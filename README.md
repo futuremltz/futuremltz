@@ -75,7 +75,7 @@ int main(void) {
 | 📒 [**Agenda de Contatos**](https://github.com/futuremltz/Agenda-de-Contatos) | CRUD completo no terminal | Favoritos com toggle |
 | 🗂️ [**Organizador de Arquivos**](https://github.com/futuremltz/Organizador-de-Arquivos) | Organiza uma pasta automaticamente por tipo de arquivo | Automação com `os` e `shutil` |
 | 🐍 [**Projetos em Python**](https://github.com/futuremltz/Projetos-em-Python) | Série de exercícios, cada um em seu repositório | Do IMC ao organizador de arquivos |
-| 🔧 [**Projetos em C++**](https://github.com/futuremltz/Projetos-em-cpp) | 20 projetos, do básico à POO | Simulador de banco (em andamento) |
+| 🔧 [**Projetos em C++**](https://github.com/futuremltz/Projetos-em-cpp) | Série de exercícios em C++, cada um em seu repositório | Jogo de adivinhação vencido com busca binária |
 
 ---
 
